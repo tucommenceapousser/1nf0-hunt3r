@@ -12,7 +12,7 @@ def menu():
 {Fore.RED}|_|_| |_|_|  \___/  |_| |_|\__,_|_| |_|\__|____/|_|
 
 {Fore.LIGHTRED_EX}          ╔═════════════════════════╗
-          ║{Fore.LIGHTWHITE_EX} Tool Created by Mr Empy {Fore.LIGHTRED_EX}║
+          ║{Fore.LIGHTWHITE_EX}Tool Created by trhacknon{Fore.LIGHTRED_EX}║
           ║{Fore.LIGHTWHITE_EX} Version 2.2             {Fore.LIGHTRED_EX}║
           ╚═════════════════════════╝
 {Fore.LIGHTWHITE_EX}https://youtube.co/channel/UCol7qlIUc0o0JKmdrmTWQtA
